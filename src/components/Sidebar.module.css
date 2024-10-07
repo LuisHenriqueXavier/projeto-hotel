@@ -1,0 +1,13 @@
+.sidebar {
+    display: flex;
+    background-color: var(--gray-200);
+    margin-top: -250px;
+    justify-content: center;
+    padding-top: 50px;
+}
+
+img{
+    width: 150px;
+    height: 200px;
+    border-radius: 35px 0px 35px 0px;
+}

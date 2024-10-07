@@ -1,0 +1,17 @@
+.container {
+  max-width: 70rem;
+  width: 100%;
+  background-color: aquamarine;        /* Centraliza horizontal e verticalmente */
+  height: 100vh;
+  margin: 2rem auto;
+  padding: 0 2rem;
+  display: grid;
+  grid-template-columns: 200px 1fr;
+  gap: 2rem;
+}
+
+
+
+main {
+  background-color: blueviolet;
+}
